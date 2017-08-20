@@ -1,0 +1,3 @@
+Organize assets better
+Create scripts that encompass multiple assets to avoid confusion
+Use empty game objects as managers to put scripts
